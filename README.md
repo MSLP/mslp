@@ -2,9 +2,9 @@
 
 ### I'm a frontend developer!
 
-- 🧑‍🎓 I've a bachelor degree in Computer Science, Saratov State University, Russia
-- 💻 I'm currently working on the final project for Yandex Praktikum
-- 🇬🇧 I live in the UK and am looking for a junior fronted developer position in London or remotely.
+- 🧑‍🎓 I've a bachelor degree in Computer Science, Saratov State University, Russia.
+- 💻 I'm currently working on the final project for Yandex Praktikum.
+- 🇬🇧 I live in the UK and am looking for a junior frontend developer position in London or remotely.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslp&hide=stars,issues&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
