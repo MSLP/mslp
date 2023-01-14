@@ -2,8 +2,8 @@
 
 ### I'm a frontend developer!
 
-- 🧑‍🎓 I've a bachelor degree in Computer Science, Saratov State University, Russia.
-- 💻 I've finished web courses at Yandex Praktikum.
+- 🧑‍🎓 I've a bachelor degree in Computer Science.
+- 💻 I've finished web-development course.
 - 🇬🇧 I live in the UK and currently working at [Plentific](https://www.plentific.com/).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslp&hide=stars,issues&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
